@@ -1,0 +1,25 @@
+{
+  "name": "companion-module-matrix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixma5ter/companion-module-matrix.git"
+  },
+  "dependencies": {
+    "@companion-module/base": "~1.4.0"
+  },
+  "manufacturer": "Generic",
+  "product": "UDP Switcher/Multiviewer",
+  "shortname": "udp-switcher",
+  "keywords": [
+    "UDP",
+    "Switcher",
+    "Matrix",
+    "Multiviewer"
+  ]
+}
